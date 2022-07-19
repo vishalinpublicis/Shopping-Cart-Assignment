@@ -1,0 +1,12 @@
+{
+  "name": "shopping-cart-assignment",
+  "version": "1.0.0",
+  "description": "XT Shopping cart assignment",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "git": "https://github.com/vishalinpublicis/Shopping-Cart-Assignment.git",
+  "author": "",
+  "license": "ISC"
+}
